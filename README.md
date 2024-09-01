@@ -60,9 +60,10 @@ To view the status of all resources, use the following command:
 
 ```bash
 kubectl get all
-![Screenshot 2024-08-31 200228](https://github.com/user-attachments/assets/2e02abe1-55e7-4455-a00b-bf40d5099213)
+
 
 ```
+![Screenshot 2024-08-31 200228](https://github.com/user-attachments/assets/2c6e1699-a0bc-47d8-8943-ef45f90e2ebd)
 
 This command lists all pods, services, replicasets, statefulsets, and HPAs in the cluster.
 
