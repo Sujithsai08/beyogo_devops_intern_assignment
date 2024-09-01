@@ -19,6 +19,8 @@ To build and push the Docker image, follow these steps:
    ```
 
    You can verify the image on DockerHub to ensure it has been uploaded successfully.
+   ![Screenshot (287)](https://github.com/user-attachments/assets/e151a340-0c14-46d6-ac67-4efa4538469c)
+
 
 ## Deploying the Flask Application and MongoDB on Minikube Kubernetes Cluster
 
@@ -58,6 +60,8 @@ To view the status of all resources, use the following command:
 
 ```bash
 kubectl get all
+![Screenshot 2024-08-31 200228](https://github.com/user-attachments/assets/2e02abe1-55e7-4455-a00b-bf40d5099213)
+
 ```
 
 This command lists all pods, services, replicasets, statefulsets, and HPAs in the cluster.
